@@ -1,0 +1,23 @@
+-----ROUTE FINDING----
+
+Ram and Shyam are two bright students studying in the university, Microbiology Department. Both were busy with an assignment to study the nature of COVID19 virus to see how a vaccination can be created and thought they might be able to finish it in a couple of days and then go to their native place, Chandrapur.
+
+But as the lockdown was imposed immediately the next coming day, they are stuck up in Pune itself and unable to go to their hometown. 
+
+Just a few days back, they both got the permission to travel to their hometown on their bike, but of course with a few restrictions.
+
+The restrictions are as below:
+
+    They need to reach their destination within 5 days.
+    If a certain district is in Red Zone, they need to stop at the boundary, get a COVID test done and are able to move ahead of course only after the test comes negative and that too only using the outer ring road. (It takes 1 day for the test reports to come)
+    If a certain district is in Orange Zone, then preliminary tests are conducted whose results arrive in half a day and only if the results are negative can they travel ahead through the district using the outer ring road.
+    If a district is in Green Zone, then they are just tested for temperature and if they are not feverish they can move ahead.
+    Each day they can cross at max just 3 districts,
+
+Ram and Shyam want to reach their destination as fast as possible preferably avoiding any red zone district and if possible the orange zones too. 
+
+As they are not Computer Science students they have approached us to help them with this route finding problem.
+
+Note that the Maharashtra state map for the Red/Orange/Green  is not static. So your problem would take in input about the Zones and then start to find route.
+
+Formulate the problem and then write a code to solve it. Based on the above provided information you have to formulate the heuristic function (if you need it) and the path and step costs.

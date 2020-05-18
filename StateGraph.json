@@ -1,0 +1,742 @@
+{
+    "Ahmednagar": {
+        "Aurangabad" : {
+            "Weight" : 3,
+            "Heuristic" : 7
+        },
+        "Nashik" : {
+            "Weight" : 4,
+            "Heuristic" : 10
+        },
+        "Beed" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Osmanabad" : {
+            "Weight" : 4,
+            "Heuristic" : 6
+        },
+        "Solapur" : {
+            "Weight" : 5,
+            "Heuristic" : 7
+        },
+        "Pune" : {
+            "Weight" : 3,
+            "Heuristic" : 10
+        }
+    },
+    "Akola": {
+        "Amravati" : {
+            "Weight" : 3,
+            "Heuristic" : 3
+        },
+        "Buldhana" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Washim" : {
+            "Weight" : 2,
+            "Heuristic" : 4
+        },
+        "Parbhani" : {
+            "Weight" : 5,
+            "Heuristic" : 5
+        }
+    },
+    "Amravati": {
+        "Akola" : {
+            "Weight" : 3,
+            "Heuristic" : 4
+        },
+        "Yavatmal" : {
+            "Weight" : 3,
+            "Heuristic" : 2
+        },
+        "Washim" : {
+            "Weight" : 3,
+            "Heuristic" : 4
+        },
+        "Wardha" : {
+            "Weight" : 3,
+            "Heuristic" : 2
+        }
+    },
+    "Aurangabad": {
+        "Ahmednagar" : {
+            "Weight" : 3,
+            "Heuristic" : 8
+        },
+        "Nashik" : {
+            "Weight" : 4,
+            "Heuristic" : 10
+        },
+        "Jalna" : {
+            "Weight" : 2,
+            "Heuristic" : 4
+        },
+        "Dhule" : {
+            "Weight" : 3,
+            "Heuristic" : 8
+        },
+        "Jalgaon" : {
+            "Weight" : 4,
+            "Heuristic" : 7
+        },
+        "Buldhana" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Beed" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        }
+    },
+    "Beed": {
+        "Latur" : {
+            "Weight" : 4,
+            "Heuristic" : 6
+        },
+        "Parbhani" : {
+            "Weight" : 4,
+            "Heuristic" : 5
+        },
+        "Jalna" : {
+            "Weight" : 3,
+            "Heuristic" : 4
+        },
+        "Osmanabad" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Aurangabad" : {
+            "Weight" : 3,
+            "Heuristic" : 7
+        },
+        "Ahmednagar" : {
+            "Weight" : 3,
+            "Heuristic" : 8
+        }
+    },
+    "Bhandara": {
+        "Nagpur" : {
+            "Weight" : 2,
+            "Heuristic" : 2
+        },
+        "Gondia" : {
+            "Weight" : 2,
+            "Heuristic" : 3
+        },
+        "Chandrapur" : {
+            "Weight" : 4,
+            "Heuristic" : 0
+        },
+        "Gadchiroli" : {
+            "Weight" : 3,
+            "Heuristic" : 1
+        },
+        "Wardha" : {
+            "Weight" : 3,
+            "Heuristic" : 2
+        }
+    },
+    "Buldhana": {
+        "Akola" : {
+            "Weight" : 3,
+            "Heuristic" : 4
+        },
+        "Washim" : {
+            "Weight" : 3,
+            "Heuristic" : 4
+        },
+        "Jalna" : {
+            "Weight" : 3,
+            "Heuristic" : 4
+        },
+        "Parbhani" : {
+            "Weight" : 4,
+            "Heuristic" : 5
+        },
+        "Jalgaon" : {
+            "Weight" : 3,
+            "Heuristic" : 7
+        },
+        "Hingoli" : {
+            "Weight" : 4,
+            "Heuristic" : 4
+        },
+        "Aurangabad" : {
+            "Weight" : 3,
+            "Heuristic" : 7
+        }
+    },
+    "Chandrapur": {
+        "Yavatmal" : {
+            "Weight" : 4,
+            "Heuristic" : 2
+        },
+        "Nagpur" : {
+            "Weight" : 4,
+            "Heuristic" : 2
+        },
+        "Wardha" : {
+            "Weight" : 3,
+            "Heuristic" : 2
+        },
+        "Gadchiroli" : {
+            "Weight" : 2,
+            "Heuristic" : 1
+        },
+        "Gondia" : {
+            "Weight" : 5,
+            "Heuristic" : 3
+        },
+        "Bhandara" : {
+            "Weight" : 4,
+            "Heuristic" : 2
+        }
+    },
+    "Dhule": {
+        "Nashik" : {
+            "Weight" : 3,
+            "Heuristic" : 10
+        },
+        "Nandurbar" : {
+            "Weight" : 4,
+            "Heuristic" : 9
+        },
+        "Jalgaon" : {
+            "Weight" : 3,
+            "Heuristic" : 7
+        }
+    },
+    "Gadchiroli": {
+        "Chandrapur" : {
+            "Weight" : 2,
+            "Heuristic" : 0
+        },
+        "Gondia" : {
+            "Weight" : 4,
+            "Heuristic" : 3
+        },
+        "Bhandara" : {
+            "Weight" : 3,
+            "Heuristic" : 2
+        }
+    },
+    "Gondia": {
+        "Gadchiroli" : {
+            "Weight" : 4,
+            "Heuristic" : 1
+        },
+        "Chandrapur" : {
+            "Weight" : 5,
+            "Heuristic" : 0
+        },
+        "Bhandara" : {
+            "Weight" : 2,
+            "Heuristic" : 2
+        }
+    },
+    "Hingoli": {
+        "Washim" : {
+            "Weight" : 2,
+            "Heuristic" : 4
+        },
+        "Yavatmal" : {
+            "Weight" : 4,
+            "Heuristic" : 2
+        },
+        "Nanded" : {
+            "Weight" : 2,
+            "Heuristic" : 4
+        },
+        "Parbhani" : {
+            "Weight" : 2,
+            "Heuristic" : 5
+        },
+        "Buldhana" : {
+            "Weight" : 4,
+            "Heuristic" : 6
+        }
+    },
+    "Jalgaon": {
+        "Nashik" : {
+            "Weight" : 6,
+            "Heuristic" : 10
+        },
+        "Buldhana" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Dhule" : {
+            "Weight" : 3,
+            "Heuristic" : 8
+        },
+        "Aurangabad" : {
+            "Weight" : 4,
+            "Heuristic" : 7
+        },
+        "Jalna" : {
+            "Weight" : 4,
+            "Heuristic" : 4
+        }
+    },
+    "Jalna": {
+        "Washim" : {
+            "Weight" : 4,
+            "Heuristic" : 4
+        },
+        "Buldhana" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Parbhani" : {
+            "Weight" : 3,
+            "Heuristic" : 5
+        },
+        "Aurangabad" : {
+            "Weight" : 2,
+            "Heuristic" : 7
+        },
+        "Beed" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Jalgaon" : {
+            "Weight" : 4,
+            "Heuristic" : 7
+        },
+        "Ahmednagar" : {
+            "Weight" : 4,
+            "Heuristic" : 8
+        }
+    },
+    "Kolhapur": {
+        "Sindhudurg" : {
+            "Weight" : 3,
+            "Heuristic" : 19
+        },
+        "Ratnagiri" : {
+            "Weight" : 3,
+            "Heuristic" : 12
+        },
+        "Sangli" : {
+            "Weight" : 2,
+            "Heuristic" : 10
+        },
+        "Satara" : {
+            "Weight" : 3,
+            "Heuristic" : 10
+        }
+    },
+    "Latur": {
+        "Osmanabad" : {
+            "Weight" : 2,
+            "Heuristic" : 6
+        },
+        "Beed" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Parbhani" : {
+            "Weight" : 3,
+            "Heuristic" : 5
+        },
+        "Nanded" : {
+            "Weight" : 3,
+            "Heuristic" : 4
+        }
+    },
+    "Mumbai" : {
+        "Mumbai Suburban" : {
+            "Weight" : 1,
+            "Heuristic" : 11
+        },
+        "Thane" : {
+            "Weight" : 1,
+            "Heuristic" : 11
+        }
+    },
+    "Mumbai Suburban" : {
+        "Mumbai" : {
+            "Weight" : 1,
+            "Heuristic" : 11
+        }
+    },
+    "Nagpur": {
+        "Bhandara" : {
+            "Weight" : 2,
+            "Heuristic" : 2
+        },
+        "Chandrapur" : {
+            "Weight" : 4,
+            "Heuristic" : 0
+        },
+        "Amravati" : {
+            "Weight" : 4,
+            "Heuristic" : 3
+        },
+        "Wardha" : {
+            "Weight" : 3,
+            "Heuristic" : 2
+        }
+    },
+    "Nanded": {
+        "Beed" : {
+            "Weight" : 4,
+            "Heuristic" : 6
+        },
+        "Latur" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Parbhani" : {
+            "Weight" : 2,
+            "Heuristic" : 5
+        },
+        "Hingoli" : {
+            "Weight" : 2,
+            "Heuristic" : 4
+        },
+        "Yavatmal" : {
+            "Weight" : 4,
+            "Heuristic" : 2
+        }
+    },
+    "Nandurbar": {
+        "Dhule" : {
+            "Weight" : 4,
+            "Heuristic" : 8
+        }
+    },
+    "Nashik": {
+        "Thane" : {
+            "Weight" : 3,
+            "Heuristic" : 11
+        },
+        "Dhule" : {
+            "Weight" : 4,
+            "Heuristic" : 8
+        },
+        "Jalgaon" : {
+            "Weight" : 5,
+            "Heuristic" : 7
+        },
+        "Ahmednagar" : {
+            "Weight" : 4,
+            "Heuristic" : 8
+        },
+        "Aurangabad" : {
+            "Weight" : 4,
+            "Heuristic" : 7
+        },
+        "Palghar" : {
+            "Weight" : 4,
+            "Heuristic" : 12
+        }
+    },
+    "Osmanabad": {
+        "Beed" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Latur" : {
+            "Weight" : 2,
+            "Heuristic" : 6
+        },
+        "Solapur" : {
+            "Weight" : 2,
+            "Heuristic" : 7
+        },
+        "Ahmednagar" : {
+            "Weight" : 4,
+            "Heuristic" : 8
+        }
+    },
+    "Palghar": {
+        "Nashik" : {
+            "Weight" : 4,
+            "Heuristic" : 10
+        },
+        "Thane" : {
+            "Weight" : 3,
+            "Heuristic" : 11
+        }
+    },
+    "Parbhani": {
+        "Jalna" : {
+            "Weight" : 3,
+            "Heuristic" : 4 
+        },
+        "Buldhana" : {
+            "Weight" : 4,
+            "Heuristic" : 6
+        },
+        "Akola" : {
+            "Weight" : 5,
+            "Heuristic" : 4
+        },
+        "Washim" : {
+            "Weight" : 3,
+            "Heuristic" : 4
+        },
+        "Hingoli" : {
+            "Weight" : 2,
+            "Heuristic" : 4
+        },
+        "Nanded" : {
+            "Weight" : 2,
+            "Heuristic" : 4
+        },
+        "Beed" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Latur" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        }
+    },
+    "Pune": {
+        "Satara" : {
+            "Weight" : 3,
+            "Heuristic" : 10 
+        },
+        "Raigad" : {
+            "Weight" : 3,
+            "Heuristic" : 12
+        },
+        "Thane" : {
+            "Weight" : 4,
+            "Heuristic" : 11
+        },
+        "Solapur" : {
+            "Weight" : 5,
+            "Heuristic" : 7
+        },
+        "Ahmednagar" : {
+            "Weight" : 3,
+            "Heuristic" : 8
+        }
+    },
+    "Raigad": {
+        "Satara" : {
+            "Weight" : 5,
+            "Heuristic" : 10
+        },
+        "Thane" : {
+            "Weight" : 3,
+            "Heuristic" : 11
+        },
+        "Pune" : {
+            "Weight" : 3,
+            "Heuristic" : 10
+        },
+        "Ratnagiri" : {
+            "Weight" : 6,
+            "Heuristic" : 12
+        }
+    },
+    "Ratnagiri": {
+        "Satara" : {
+            "Weight" : 4,
+            "Heuristic" : 10
+        },
+        "Raigad" : {
+            "Weight" : 6,
+            "Heuristic" : 12
+        },
+        "Sangli" : {
+            "Weight" : 4,
+            "Heuristic" : 10
+        },
+        "Kolhapur" : {
+            "Weight" : 3,
+            "Heuristic" : 11
+        },
+        "Sindhudurg" : {
+            "Weight" : 3,
+            "Heuristic" : 19
+        }
+    },
+    "Sangli": {
+        "Satara" : {
+            "Weight" : 3,
+            "Heuristic" : 10
+        },
+        "Ratnagiri" : {
+            "Weight" : 4,
+            "Heuristic" : 12
+        },
+        "Solapur" : {
+            "Weight" : 3,
+            "Heuristic" : 7
+        },
+        "Kolhapur" : {
+            "Weight" : 2,
+            "Heuristic" : 11
+        }
+    },
+    "Satara": {
+        "Ratnagiri" : {
+            "Weight" : 4,
+            "Heuristic" : 12
+        },
+        "Kolhapur" : {
+            "Weight" : 3,
+            "Heuristic" : 11
+        },
+        "Sangli" : {
+            "Weight" : 3,
+            "Heuristic" : 10
+        },
+        "Solapur" : {
+            "Weight" : 4,
+            "Heuristic" : 7
+        },
+        "Pune": {
+            "Weight" : 3,
+            "Heuristic" : 10
+        },
+        "Raigad": {
+            "Weight" : 5,
+            "Heuristic" : 12
+        }
+    },
+    "Sindhudurg": {
+        "Ratnagiri" : {
+            "Weight" : 3,
+            "Heuristic" : 12
+        },
+        "Kolhapur" : {
+            "Weight" : 3,
+            "Heuristic" : 11
+        }
+    },
+    "Solapur": {
+        "Pune" : {
+            "Weight" : 5,
+            "Heuristic" : 10
+        },
+        "Ahmednagar" : {
+            "Weight" : 5,
+            "Heuristic" : 8
+        },
+        "Sangli" : {
+            "Weight" : 4,
+            "Heuristic" : 10
+        },
+        "Satara" : {
+            "Weight" : 5,
+            "Heuristic" : 10
+        },
+        "Osmanabad": {
+            "Weight" : 2,
+            "Heuristic" : 6
+        }
+    },
+    "Thane": {
+        "Pune" : {
+            "Weight" : 4,
+            "Heuristic" : 10
+        },
+        "Mumbai Suburban" : {
+            "Weight" : 1,
+            "Heuristic" : 11
+        },
+        "Nashik" : {
+            "Weight" : 3,
+            "Heuristic" : 10
+        },
+        "Raigad" : {
+            "Weight" : 3,
+            "Heuristic" : 12
+        },
+        "Palghar": {
+            "Weight" : 3,
+            "Heuristic" : 12
+        },
+        "Ahmednagar": {
+            "Weight" : 5,
+            "Heuristic" : 8
+        }
+    },
+    "Wardha": {
+        "Amravati" : {
+            "Weight" : 3,
+            "Heuristic" : 3
+        },
+        "Nagpur" : {
+            "Weight" : 2,
+            "Heuristic" : 2
+        },
+        "Bhandara" : {
+            "Weight" : 3,
+            "Heuristic" : 3
+        },
+        "Yavatmal" : {
+            "Weight" : 2,
+            "Heuristic" : 2
+        },
+        "Chandrapur" : {
+            "Weight" : 3,
+            "Heuristic" : 0
+        }
+    },
+    "Washim": {
+        "Akola" : {
+            "Weight" : 2,
+            "Heuristic" : 4
+        },
+        "Amravati" : {
+            "Weight" : 3,
+            "Heuristic" : 3
+        },
+        "Yavatmal" : {
+            "Weight" : 3,
+            "Heuristic" : 3
+        },
+        "Hingoli" : {
+            "Weight" : 2,
+            "Heuristic" : 4
+        },
+        "Buldhana" : {
+            "Weight" : 3,
+            "Heuristic" : 6
+        },
+        "Jalna" : {
+            "Weight" : 4,
+            "Heuristic" : 4
+        },
+        "Parbhani" : {
+            "Weight" : 3,
+            "Heuristic" : 5
+        }
+    },
+    "Yavatmal": {
+        "Washim" : {
+            "Weight" : 3,
+            "Heuristic" : 4
+        },
+        "Amravati" : {
+            "Weight" : 3,
+            "Heuristic" : 3
+        },
+        "Nanded" : {
+            "Weight" : 4,
+            "Heuristic" : 4
+        },
+        "Hingoli" : {
+            "Weight" : 4,
+            "Heuristic" : 4
+        },
+        "Wardha" : {
+            "Weight" : 2,
+            "Heuristic" : 2
+        },
+        "Chandrapur" : {
+            "Weight" : 4,
+            "Heuristic" : 0
+        }
+    }
+}
